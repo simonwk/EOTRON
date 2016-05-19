@@ -1,0 +1,3 @@
+highlighter: rouge
+baseurl: /EOTRON
+exclude: ['README.md']
